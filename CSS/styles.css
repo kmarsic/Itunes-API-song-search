@@ -103,7 +103,7 @@ header {
     border: none;
     color:white;
     padding: 12px 12px 12px 40px;
-    background: transparent url("/CSS/imgs/searchicon.png") no-repeat 14px;
+    background: transparent url("imgs/searchicon.png") no-repeat 14px;
     background-size: 16px;
     background-color: #212121;
 }
