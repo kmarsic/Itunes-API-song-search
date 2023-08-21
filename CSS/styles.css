@@ -6,21 +6,21 @@
 
 @font-face {
     font-family: "gotham-black";
-    src: url("/CSS/fonts/gotham-black-webfont.woff") format("woff"), url("/CSS/fonts/gotham-black-webfont.woff2") format("woff2");
+    src: url("fonts/gotham-black-webfont.woff") format("woff"), url("fonts/gotham-black-webfont.woff2") format("woff2");
     font-weight: normal;
     font-style: normal;
   }
 
 @font-face {
     font-family: "gotham-medium";
-    src: url("/CSS/fonts/gothammedium-webfont.woff") format("woff"), url("/CSS/fonts/gothammedium-webfont.woff2") format("woff2");
+    src: url("fonts/gothammedium-webfont.woff") format("woff"), url("fonts/gothammedium-webfont.woff2") format("woff2");
     font-weight: normal;
     font-style: normal;
   }
 
 @font-face {
     font-family: "gotham-book";
-    src: url("/CSS/fonts/gothambook-webfont.woff") format("woff"), url("CSS/fonts/gothambook-webfont.woff2") format("woff2");
+    src: url("fonts/gothambook-webfont.woff") format("woff"), url("fonts/gothambook-webfont.woff2") format("woff2");
     font-weight: normal;
     font-style: normal;
   }
